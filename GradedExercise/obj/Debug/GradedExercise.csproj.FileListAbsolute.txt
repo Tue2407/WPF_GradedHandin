@@ -1,0 +1,14 @@
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\bin\Debug\GradedExercise.exe.config
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\bin\Debug\GradedExercise.exe
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\bin\Debug\GradedExercise.pdb
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise.csprojAssemblyReference.cache
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\MainWindow.g.cs
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\App.g.cs
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise_MarkupCompile.cache
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise_MarkupCompile.lref
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\MainWindow.baml
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise.g.resources
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise.Properties.Resources.resources
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise.csproj.GenerateResource.cache
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise.exe
+C:\Users\the_t\source\repos\GradedExercise\GradedExercise\obj\Debug\GradedExercise.pdb
